@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+*.exe
+input.txt
+result.txt
+__pycache__/
+*.ipynb_checkpoints/
